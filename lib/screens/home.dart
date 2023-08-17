@@ -95,7 +95,7 @@ class _HomePageState extends State<HomePage> {
               height: 40,
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(20),
-                child: Image.asset('assets/images/avatar.jpg'),
+                child: Image.asset('assets/istockphoto.png'),
               ),
             ),
           ],
